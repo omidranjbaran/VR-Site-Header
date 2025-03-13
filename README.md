@@ -5,7 +5,7 @@
 ## 🎥 Live Demo
 🔗 [View Demo](https://omidranjbaran.github.io/VR-Site-Header/)  
 
-![VR Header Preview](https://raw.githubusercontent.com/omidranjbaran/VR-Site-Header/main/demo.gif)
+![VR Header Preview](https://omidranjbaran.github.io/VR-Site-Header)
 
 ## ✨ Features  
 ✔ Modern and minimalist design  
